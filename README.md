@@ -11,6 +11,8 @@ infrastructure.
 
 The manifesto is published at **https://zerolock.org**
 
+You can also download the PDF directly from this repository.
+
 ## Academic reference
 
 Published on Zenodo with DOI: [10.5281/zenodo.22201357](https://doi.org/10.5281/zenodo.22201357)
