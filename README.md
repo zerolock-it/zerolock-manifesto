@@ -30,5 +30,4 @@ Zerolock is an Italian IT company specialised in Linux and open source
 infrastructure for small and medium businesses in Lombardy, Italy.
 
 Website: https://zerolock.it
-
 Founder: Mišo Oroz — https://oroz.it
